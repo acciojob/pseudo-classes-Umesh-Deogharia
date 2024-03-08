@@ -24,7 +24,7 @@ p:first-child{
 }
 
 li:nth-child(odd){
-	background-color:white;
+	background-color: white;
 }
 li{
 	background-color:gray;
@@ -33,11 +33,11 @@ li{
 	
 }
 
-li:first-child{
+/* li:first-child{
 	font-size:22px;
-}
+} */
 
-li:last-child{
+li:last-child,li:first-child{
 	font-size:22px;
 	/* background-color:pink; */
 }
