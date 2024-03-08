@@ -1,11 +1,7 @@
 /*  your css code here. If applicable */
 
 :root{
-	--background: rgb(135, 206, 235);
-}
-
-body{
-	background-color:var(--background);
+	background-color: rgb(135, 206, 235);
 }
 
 
