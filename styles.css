@@ -8,6 +8,8 @@ body{
 	background-color:var(--background);
 }
 
+
+
 p:first-child{
 	color:white;
 	background-color:black;
@@ -18,5 +20,11 @@ p:nth-child(2){
 }
 
 p:last-child{
-	color:red
+	color:red;
 }
+
+li{
+	background-color:gray;
+	
+}
+
